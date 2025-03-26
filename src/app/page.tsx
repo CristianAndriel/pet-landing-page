@@ -4,7 +4,6 @@ import { Hero } from "./_components/hero";
 import { Services } from "./_components/services";
 import { Testimonials } from "./_components/testimonials";
 import { Footer } from "./_components/footer";
-import { AosInit } from "./_components/aos-init";
 
 const montserrat = Montserrat({ subsets: ["latin"], weight: ["400", "700"] });
 export default function Home() {
